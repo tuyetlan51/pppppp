@@ -1,2 +1,1 @@
-# pppppp
-pppppp
+.env.example
